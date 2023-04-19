@@ -13,8 +13,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 
 ### Routes:
 
-&nbsp;
-
 | Method | Url                 | Description               |
 | ------ | ------------------- | ------------------------- |
 | GET   | /users       | Get all users       |
@@ -25,8 +23,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 ## Food
 
 ### Routes:
-
-&nbsp;
 
 | Method | Url                      | Description       |
 | ------ | ------------------------ | ----------------- |
@@ -40,8 +36,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 
 ### Routes:
 
-&nbsp;
-
 | Method | Url                      | Description       |
 | ------ | ------------------------ | ----------------- |
 | GET    | /menus                   | Gets all menus |
@@ -52,8 +46,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 ## Table
 
 ### Routes:
-
-&nbsp;
 
 | Method | Url                      | Description       |
 | ------ | ------------------------ | ----------------- |
@@ -66,8 +58,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 
 ### Routes:
 
-&nbsp;
-
 | Method | Url                      | Description       |
 | ------ | ------------------------ | ----------------- |
 | GET    | /orders                   | Gets all orders |
@@ -78,8 +68,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 ## Order Item
 
 ### Routes:
-
-&nbsp;
 
 | Method | Url                      | Description       |
 | ------ | ------------------------ | ----------------- |
@@ -92,8 +80,6 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 ## Invoice
 
 ### Routes:
-
-&nbsp;
 
 | Method | Url                      | Description       |
 | ------ | ------------------------ | ----------------- |
@@ -109,5 +95,4 @@ This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the
 
 ![Flowchart](restaurant.jpg)
 
-&nbsp;
 
