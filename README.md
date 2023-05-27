@@ -4,8 +4,48 @@ This is a Restaurant-Backend side project written in Golang along with
 database like MongoDB.
 
 # Project Structure
--------------------
-![image](https://github.com/siddharth-sable/restaurant-management-backend/assets/66620788/59b70f52-bdae-4aea-97c0-ed6b54fbc135)
+```
+.
+├── controllers
+│   ├── foodController.go
+│   ├── invoiceController.go
+│   ├── menuController.go
+│   ├── orderController.go
+│   ├── orderItemsController.go
+│   ├── tableController.go
+│   └── userController.go
+├── database
+│   └── databaseConnection.go
+├── go.mod
+├── go.sum
+├── helpers
+│   └── tokenHelper.go
+├── main.go
+├── middleware
+│   └── authMiddleware.go
+├── models
+│   ├── foodModel.go
+│   ├── invoiceModel.go
+│   ├── menuModel.go
+│   ├── noteModels.go
+│   ├── orderItemModel.go
+│   ├── orderModel.go
+│   ├── tableModel.go
+│   └── userModel.go
+└── routes
+    ├── foodRouter.go
+    ├── invoiceRouter.go
+    ├── menuRouter.go
+    ├── orderItemRouter.go
+    ├── orderRouter.go
+    ├── tableRouter.go
+    └── userRouter.go
+
+6 directories, 28 files
+
+
+```
+
 
 
 # Authentication
