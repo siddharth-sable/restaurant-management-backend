@@ -42,8 +42,6 @@ database like MongoDB.
     └── userRouter.go
 
 6 directories, 28 files
-
-
 ```
 
 
