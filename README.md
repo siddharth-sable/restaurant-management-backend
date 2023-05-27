@@ -3,6 +3,11 @@
 This is a Restaurant-Backend side project written in Golang along with
 database like MongoDB.
 
+# Project Structure
+-------------------
+![image](https://github.com/siddharth-sable/restaurant-management-backend/assets/66620788/59b70f52-bdae-4aea-97c0-ed6b54fbc135)
+
+
 # Authentication
 
 This API uses JWT (JSON Web Tokens) for authentication. When a user logs in, the API generates a JWT containing the user's id, which is used to authenticate all subsequent requests. 
